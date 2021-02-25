@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World
 
 * I'm pretty active on my personal website, which I host on a Gemini/HTTP site builder I made, [flounder](https://github.com/alexwennerberg/flounder): https://alexwennerberg.com/
 
