@@ -6,3 +6,5 @@ If you don't have a GitHub account and still want to contribute to my projects, 
 
 * [Patches](https://lists.sr.ht/~aw/patches)
 * [Discussion](https://lists.sr.ht/~aw/hi)
+
+I'm in the process of migrating my projects to https://git.alexwennerberg.com, which runs [mygit](https://github.com/alexwennerberg/mygit), a git server I designed.
