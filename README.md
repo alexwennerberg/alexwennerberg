@@ -6,4 +6,4 @@ If you don't have a GitHub account and still want to contribute to my projects, 
 
 * [public inbox](https://lists.sr.ht/~aw/hi)
 
-Some of my projects are on https://git.alexwennerberg.com
+Some of my projects are on https://git.alexwennerberg.com -- over time, I will probably migrate more of them that way.
