@@ -3,8 +3,10 @@
 All my active projects are on 
 https://git.alexwennerberg.com
 
-Patches can be sent to:
-https://lists.flounder.online/patches/
+Patches or a git-request-pull message can be sent to:
+https://lists.sr.ht/~aw/patches
+
+or my email (found on git commits)
 
 I mirror things here sparsely. I would prefer not to.
 
