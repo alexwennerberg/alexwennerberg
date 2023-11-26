@@ -1,7 +1,7 @@
 # Hello World
 
-Most of my active projects are on 
-https://git.alexwennerberg.com and/or https://git.sr.ht/~aw
+**Most of my active projects are on 
+https://git.alexwennerberg.com and/or https://git.sr.ht/~aw**
 
 Patches or a git-request-pull message can be sent to:
 https://lists.sr.ht/~aw/patches
