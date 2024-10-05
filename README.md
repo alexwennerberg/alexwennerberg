@@ -1,6 +1,6 @@
 # Hello World
 
-**Most of my active projects are on https://git.alexw.nyc**
+**Most of my active projects are on https://git.sr.ht/~aw**
 
 Patches or a git-request-pull message can be sent to:
 https://lists.sr.ht/~aw/patches
